@@ -19,7 +19,8 @@ public class Main{
 
 
 
-
+    //Ejercicio 3, test sobre el uso incorrecto de static
+       Coche.nuevoCoche("Suzuki");
 
 
 

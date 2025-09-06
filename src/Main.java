@@ -20,9 +20,10 @@ public class Main{
 
 
     //Ejercicio 3, test sobre el uso incorrecto de static
-       Coche.nuevoCoche("Suzuki");
+       //Coche.nuevoCoche("Suzuki");
 
-
+    //Se le coloca el static al atributo marca para acceder y modificarlo directamente.
+        Coche.nuevoCoche("Ford");
 
 
 

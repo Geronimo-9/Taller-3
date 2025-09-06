@@ -1,6 +1,6 @@
 public class Coche {
 
-private String marca = "Toyota";
+private static String marca = "Toyota";
 private String modelo;
 private static double contadorCoche = 0;
 
